@@ -8,7 +8,7 @@
 @trunk-casing: #c84e2f;
 @primary-casing: #a06b00;
 @secondary-casing: #707d05;
-@motorway-fill: #e892a2;
+@motorway-fill: #15520d;
 @trunk-fill: #f9b29c;
 @primary-fill: #fcd6a4;
 @secondary-fill: #f7fabf;
