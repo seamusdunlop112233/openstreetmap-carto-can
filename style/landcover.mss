@@ -10,7 +10,7 @@
 @hedge: @forest;       // Lch(80,30,135)
 
 // --- "Base" landuses ---
-//test from BCF
+
 @built-up-lowzoom: #d0d0d0;
 @built-up-z12: #dddddd;
 @residential: #e0dfdf;      // Lch(89,0,0)
