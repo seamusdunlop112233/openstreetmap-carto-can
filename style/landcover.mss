@@ -804,7 +804,7 @@
     opacity: 0.4; // The entire layer has opacity to handle overlapping forests
   }
 }
-
+/*
 #landuse-overlay {
   [landuse = 'military'][zoom >= 8][way_pixels > 900],
   [landuse = 'military'][zoom >= 13] {
@@ -833,6 +833,7 @@
     line-offset: -1.0;
   }
 }
+*/
 
 #cliffs {
   [natural = 'cliff'][zoom >= 13] {
